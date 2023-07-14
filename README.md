@@ -1,3 +1,3 @@
 # odin_recipes
-Odin Recipes try
-Try again
+<h1>Odin Recipes try</h1>
+<p>Try again </p>
